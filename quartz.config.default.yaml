@@ -6,8 +6,8 @@ configuration:
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  locale: ko-KR                          # 1. en-US -> ko-KR (한국어 설정)
+  baseUrl: jm90hong.github.io/my-notes   # 2. 본인의 GitHub Pages 주소로 변경 (프로토콜 https:// 제외)
   ignorePatterns:
     - private
     - templates
